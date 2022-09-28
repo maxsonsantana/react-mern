@@ -1,6 +1,8 @@
 # Ignore a pasta node_modules
 /backend/node_modules
 
-dbConfig.js
+#Ignorar arquivo de configuração
+/backend/src/config
+
 # Ignore arquivos relacionados às chaves de API
 .env
