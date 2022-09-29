@@ -2,7 +2,7 @@
 /backend/node_modules
 
 #Ignorar arquivo de configuração
-/backend/src/config
+/backend/src/config/
 
 # Ignore arquivos relacionados às chaves de API
 .env
