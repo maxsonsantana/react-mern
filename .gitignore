@@ -1,8 +1,27 @@
 # Ignore a pasta node_modules
 /backend/node_modules
+/frontend/node_modules
 
 #Ignorar arquivo de configuração
 /backend/src/config/
 
 # Ignore arquivos relacionados às chaves de API
 .env
+
+#Front End
+/frontend/.pnp
+.pnp.js
+
+/frontend/coverage
+
+/frontend/build
+
+/frontend/.DS_Store
+/frontend/.env.local
+/frontend/.env.development.local
+/frontend/.env.test.local
+/frontend/.env.production.local
+
+/frontend/npm-debug.log*
+/frontend/yarn-debug.log*
+/frontend/yarn-error.log*
